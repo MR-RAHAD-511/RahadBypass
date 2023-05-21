@@ -1,2 +1,0 @@
-# RahadBypass
-For Messenger bot 
